@@ -1,0 +1,2336 @@
+lr: 0.0, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 124
+policy_entropy: 0.69314086
+value_loss: 1.2614965
+explained_variancenan
+-------------------------------
+lr: 0.0, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 271
+policy_entropy: 0.69313794
+value_loss: 1.6348071
+explained_variancenan
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 105
+policy_entropy: 0.69314003
+value_loss: 1.4671172
+explained_variancenan
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 268
+policy_entropy: 0.6931398
+value_loss: 0.57258
+explained_variancenan
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 96
+policy_entropy: 0.6931397
+value_loss: 1.2614901
+explained_variancenan
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 275
+policy_entropy: 0.6931385
+value_loss: 0.26276362
+explained_variancenan
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 86
+policy_entropy: 0.69314057
+value_loss: 1.0527582
+explained_variancenan
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 272
+policy_entropy: 0.6931357
+value_loss: 0.10460516
+explained_variancenan
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 78
+policy_entropy: 0.6931387
+value_loss: 1.4963286
+explained_variancenan
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 268
+policy_entropy: 0.6931393
+value_loss: 0.12578775
+explained_variancenan
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 63
+policy_entropy: 0.6931387
+value_loss: 1.1936208
+explained_variancenan
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 256
+policy_entropy: 0.6931411
+value_loss: 0.03797523
+explained_variancenan
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 68
+policy_entropy: 0.69314
+value_loss: 1.0708084
+explained_variancenan
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 282
+policy_entropy: 0.69313765
+value_loss: 0.038631417
+explained_variancenan
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 63
+policy_entropy: 0.6931404
+value_loss: 1.2303724
+explained_variancenan
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 279
+policy_entropy: 0.6931416
+value_loss: 0.062514655
+explained_variancenan
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 59
+policy_entropy: 0.6931406
+value_loss: 1.3092601
+explained_variancenan
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 277
+policy_entropy: 0.69290084
+value_loss: 7.932298e-06
+explained_variancenan
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 55
+policy_entropy: 0.6931376
+value_loss: 1.336126
+explained_variancenan
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 275
+policy_entropy: 0.69308144
+value_loss: 0.004715903
+explained_variancenan
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 53
+policy_entropy: 0.69314146
+value_loss: 1.2461108
+explained_variancenan
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 274
+policy_entropy: 0.68730986
+value_loss: 9.083592e-05
+explained_variancenan
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 50
+policy_entropy: 0.6931398
+value_loss: 1.3060117
+explained_variancenan
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 274
+policy_entropy: 0.69270915
+value_loss: 0.0076540685
+explained_variancenan
+-------------------------------
+lr: 0.631578947368421, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 47
+policy_entropy: 0.6931398
+value_loss: 1.5946679
+explained_variancenan
+-------------------------------
+lr: 0.631578947368421, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 273
+policy_entropy: 0.6912011
+value_loss: 0.00011564624
+explained_variancenan
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 45
+policy_entropy: 0.69314116
+value_loss: 1.2563876
+explained_variancenan
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 273
+policy_entropy: 0.6928394
+value_loss: 0.0006138999
+explained_variancenan
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 42
+policy_entropy: 0.69314134
+value_loss: 1.6548586
+explained_variancenan
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 272
+policy_entropy: 0.6740222
+value_loss: 0.00013238456
+explained_variancenan
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 40
+policy_entropy: 0.6931402
+value_loss: 1.1354955
+explained_variancenan
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 270
+policy_entropy: 0.6910174
+value_loss: 0.00093244656
+explained_variancenan
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 39
+policy_entropy: 0.69314075
+value_loss: 1.7208154
+explained_variancenan
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 269
+policy_entropy: 0.69279045
+value_loss: 2.82567e-05
+explained_variancenan
+-------------------------------
+lr: 0.894736842105263, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 37
+policy_entropy: 0.6931403
+value_loss: 1.1472529
+explained_variancenan
+-------------------------------
+lr: 0.894736842105263, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 268
+policy_entropy: 0.69239396
+value_loss: 0.00017941353
+explained_variancenan
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 35
+policy_entropy: 0.6931393
+value_loss: 1.4839383
+explained_variancenan
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 267
+policy_entropy: 0.6782615
+value_loss: 2.3516332e-06
+explained_variancenan
+-------------------------------
+lr: 1.0, gamma: 0.0
+nupdates: 1
+total_timesteps: 100
+fps: 34
+policy_entropy: 0.6931392
+value_loss: 1.454756
+explained_variancenan
+-------------------------------
+lr: 1.0, gamma: 0.0
+nupdates: 100
+total_timesteps: 10000
+fps: 266
+policy_entropy: 0.6930214
+value_loss: 5.815035e-10
+explained_variancenan
+-------------------------------
+lr: 0.0, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 23
+policy_entropy: 0.6931401
+value_loss: 0.92212903
+explained_variance-3724.499267578125
+-------------------------------
+lr: 0.0, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 260
+policy_entropy: 0.6931387
+value_loss: 2.1737068
+explained_variance-3273.377685546875
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 22
+policy_entropy: 0.69314075
+value_loss: 1.3283496
+explained_variance-2744.396728515625
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 254
+policy_entropy: 0.6931411
+value_loss: 0.41135094
+explained_variance-2013.72509765625
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 21
+policy_entropy: 0.6931395
+value_loss: 1.5050491
+explained_variance-2966.189697265625
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 252
+policy_entropy: 0.6931401
+value_loss: 0.25555745
+explained_variance-1261.7271728515625
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 20
+policy_entropy: 0.69313765
+value_loss: 1.0227567
+explained_variance-3251.673583984375
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 252
+policy_entropy: 0.69314134
+value_loss: 0.23554753
+explained_variance-1986.0252685546875
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 20
+policy_entropy: 0.69313693
+value_loss: 1.1935276
+explained_variance-3619.043701171875
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 250
+policy_entropy: 0.6931393
+value_loss: 0.08589405
+explained_variance-1330.7196044921875
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 19
+policy_entropy: 0.69314057
+value_loss: 1.0300057
+explained_variance-1671.995849609375
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 249
+policy_entropy: 0.6930908
+value_loss: 0.019698782
+explained_variance-132.93878173828125
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 18
+policy_entropy: 0.693139
+value_loss: 1.6141195
+explained_variance-875.06689453125
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 248
+policy_entropy: 0.6931349
+value_loss: 0.03592985
+explained_variance-294.3362731933594
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 18
+policy_entropy: 0.69313943
+value_loss: 1.6166378
+explained_variance-1481.5462646484375
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 247
+policy_entropy: 0.69313
+value_loss: 0.025352158
+explained_variance-169.57925415039062
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 17
+policy_entropy: 0.69314104
+value_loss: 1.6939539
+explained_variance-2492.25146484375
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 246
+policy_entropy: 0.6928791
+value_loss: 0.020748328
+explained_variance-139.59768676757812
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 17
+policy_entropy: 0.6931375
+value_loss: 1.4967628
+explained_variance-2991.67578125
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 245
+policy_entropy: 0.6921896
+value_loss: 0.00037259053
+explained_variance-0.8460193872451782
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 16
+policy_entropy: 0.69313866
+value_loss: 1.3223212
+explained_variance-3387.576416015625
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 243
+policy_entropy: 0.6930735
+value_loss: 0.010363999
+explained_variance-84.24617767333984
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 16
+policy_entropy: 0.69314164
+value_loss: 1.4780492
+explained_variance-2207.04443359375
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 243
+policy_entropy: 0.6921544
+value_loss: 0.00070147886
+explained_variance-3.80027437210083
+-------------------------------
+lr: 0.631578947368421, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 15
+policy_entropy: 0.6931406
+value_loss: 1.2944434
+explained_variance-3434.0048828125
+-------------------------------
+lr: 0.631578947368421, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 241
+policy_entropy: 0.6929852
+value_loss: 0.00014318428
+explained_variance-0.4892237186431885
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 15
+policy_entropy: 0.6931381
+value_loss: 1.138907
+explained_variance-1885.259765625
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 240
+policy_entropy: 0.69178426
+value_loss: 0.0002073881
+explained_variance-0.3718984127044678
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 14
+policy_entropy: 0.6931404
+value_loss: 1.4255489
+explained_variance-2266.942138671875
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 239
+policy_entropy: 0.68435127
+value_loss: 0.00011826197
+explained_variance0.0003337860107421875
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 14
+policy_entropy: 0.6931404
+value_loss: 1.8754534
+explained_variance-1452.3970947265625
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 239
+policy_entropy: 0.68797225
+value_loss: 0.00019112218
+explained_variance-0.1021428108215332
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 14
+policy_entropy: 0.693139
+value_loss: 1.2006344
+explained_variance-2039.123046875
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 236
+policy_entropy: 0.678618
+value_loss: 6.213053e-05
+explained_variance-0.006175041198730469
+-------------------------------
+lr: 0.894736842105263, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.69313955
+value_loss: 1.4461614
+explained_variance-1752.223388671875
+-------------------------------
+lr: 0.894736842105263, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 236
+policy_entropy: 0.68326294
+value_loss: 0.00015048122
+explained_variance-0.011598348617553711
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.69314104
+value_loss: 1.207909
+explained_variance-2367.57861328125
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 235
+policy_entropy: 0.67089874
+value_loss: 0.00017340053
+explained_variance-0.0005440711975097656
+-------------------------------
+lr: 1.0, gamma: 0.05263157894736842
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.6931395
+value_loss: 1.529281
+explained_variance-2333.45166015625
+-------------------------------
+lr: 1.0, gamma: 0.05263157894736842
+nupdates: 100
+total_timesteps: 10000
+fps: 234
+policy_entropy: 0.658929
+value_loss: 0.00015601623
+explained_variance-0.06712186336517334
+-------------------------------
+lr: 0.0, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 12
+policy_entropy: 0.6931389
+value_loss: 1.5587716
+explained_variance-580.0906372070312
+-------------------------------
+lr: 0.0, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 233
+policy_entropy: 0.69314194
+value_loss: 1.3397095
+explained_variance-336.2652282714844
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 12
+policy_entropy: 0.6931395
+value_loss: 1.2762398
+explained_variance-507.5933532714844
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 232
+policy_entropy: 0.69314104
+value_loss: 0.6395866
+explained_variance-615.643798828125
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 12
+policy_entropy: 0.69314057
+value_loss: 1.532901
+explained_variance-690.2412109375
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 230
+policy_entropy: 0.69313985
+value_loss: 0.12531823
+explained_variance-178.4224395751953
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.69314075
+value_loss: 2.1755898
+explained_variance-784.2157592773438
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 229
+policy_entropy: 0.69314003
+value_loss: 0.19409086
+explained_variance-469.328125
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.69314003
+value_loss: 1.525509
+explained_variance-267.7835693359375
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 228
+policy_entropy: 0.6931423
+value_loss: 0.03640848
+explained_variance-53.88182830810547
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.69314027
+value_loss: 1.4897085
+explained_variance-399.4122009277344
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 227
+policy_entropy: 0.6931392
+value_loss: 0.14338964
+explained_variance-335.3019714355469
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.6931406
+value_loss: 1.7752135
+explained_variance-564.7918090820312
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 227
+policy_entropy: 0.6931381
+value_loss: 0.016720332
+explained_variance-17.692964553833008
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 10
+policy_entropy: 0.69313765
+value_loss: 1.3386177
+explained_variance-526.0436401367188
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 230
+policy_entropy: 0.69309705
+value_loss: 0.0040901024
+explained_variance-4.106931686401367
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 10
+policy_entropy: 0.6931387
+value_loss: 1.7089431
+explained_variance-568.4038696289062
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 224
+policy_entropy: 0.6931117
+value_loss: 0.0012952283
+explained_variance-2.1842312812805176
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 10
+policy_entropy: 0.6931389
+value_loss: 1.8105677
+explained_variance-427.03375244140625
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 224
+policy_entropy: 0.6930773
+value_loss: 0.0014009253
+explained_variance-1.0721564292907715
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 10
+policy_entropy: 0.69314134
+value_loss: 1.7177433
+explained_variance-376.5555114746094
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 223
+policy_entropy: 0.69276124
+value_loss: 0.00068544375
+explained_variance-1.5098633766174316
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931395
+value_loss: 1.1668092
+explained_variance-373.3090515136719
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 191
+policy_entropy: 0.69149625
+value_loss: 0.0008465138
+explained_variance-0.2543509006500244
+-------------------------------
+lr: 0.631578947368421, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 9
+policy_entropy: 0.69314057
+value_loss: 1.6998999
+explained_variance-710.516357421875
+-------------------------------
+lr: 0.631578947368421, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 216
+policy_entropy: 0.6916013
+value_loss: 0.0006582688
+explained_variance-0.5023493766784668
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.6931385
+value_loss: 1.2784252
+explained_variance-490.5117492675781
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 212
+policy_entropy: 0.68764436
+value_loss: 0.0007952387
+explained_variance-0.009424209594726562
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 4
+policy_entropy: 0.693139
+value_loss: 1.8615096
+explained_variance-444.5608215332031
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 178
+policy_entropy: 0.6918114
+value_loss: 0.00071158854
+explained_variance-0.07705247402191162
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.693139
+value_loss: 1.5175403
+explained_variance-582.9843139648438
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 204
+policy_entropy: 0.67473
+value_loss: 0.0006696521
+explained_variance-0.011214971542358398
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.6931383
+value_loss: 1.8667203
+explained_variance-624.0253295898438
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 209
+policy_entropy: 0.6906251
+value_loss: 0.00054333615
+explained_variance-0.017450690269470215
+-------------------------------
+lr: 0.894736842105263, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 5
+policy_entropy: 0.6931372
+value_loss: 1.4290543
+explained_variance-361.978515625
+-------------------------------
+lr: 0.894736842105263, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 182
+policy_entropy: 0.68061066
+value_loss: 0.00044302945
+explained_variance-0.09336519241333008
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.6931389
+value_loss: 1.511047
+explained_variance-482.83465576171875
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 210
+policy_entropy: 0.6599469
+value_loss: 0.0007394272
+explained_variance0.050126731395721436
+-------------------------------
+lr: 1.0, gamma: 0.10526315789473684
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931397
+value_loss: 1.8492359
+explained_variance-702.4940795898438
+-------------------------------
+lr: 1.0, gamma: 0.10526315789473684
+nupdates: 100
+total_timesteps: 10000
+fps: 203
+policy_entropy: 0.66381717
+value_loss: 0.000656129
+explained_variance0.0062596797943115234
+-------------------------------
+lr: 0.0, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69314027
+value_loss: 1.2211262
+explained_variance-171.87615966796875
+-------------------------------
+lr: 0.0, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 198
+policy_entropy: 0.69314027
+value_loss: 1.2254869
+explained_variance-248.84718322753906
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931398
+value_loss: 1.9711294
+explained_variance-134.47047424316406
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 201
+policy_entropy: 0.69314086
+value_loss: 0.43590462
+explained_variance-175.53619384765625
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931393
+value_loss: 2.2086957
+explained_variance-256.73583984375
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 197
+policy_entropy: 0.6931386
+value_loss: 0.49695346
+explained_variance-357.13092041015625
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69313896
+value_loss: 1.2973453
+explained_variance-105.84310150146484
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 194
+policy_entropy: 0.6931384
+value_loss: 0.11682959
+explained_variance-77.02693939208984
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69314
+value_loss: 1.8878922
+explained_variance-134.27166748046875
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 199
+policy_entropy: 0.6931392
+value_loss: 0.15982932
+explained_variance-87.95540618896484
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931389
+value_loss: 1.7204398
+explained_variance-300.9103698730469
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 202
+policy_entropy: 0.6931372
+value_loss: 0.023264041
+explained_variance-11.565905570983887
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69313794
+value_loss: 1.8520188
+explained_variance-231.13616943359375
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 201
+policy_entropy: 0.6931316
+value_loss: 0.07177868
+explained_variance-50.49110794067383
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931402
+value_loss: 1.5266671
+explained_variance-139.65060424804688
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 197
+policy_entropy: 0.6931379
+value_loss: 0.08390378
+explained_variance-70.11515808105469
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69314075
+value_loss: 1.9004941
+explained_variance-191.42506408691406
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 204
+policy_entropy: 0.69305056
+value_loss: 0.015763737
+explained_variance-9.807558059692383
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931385
+value_loss: 2.0626895
+explained_variance-202.03578186035156
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 199
+policy_entropy: 0.6928691
+value_loss: 0.0018884818
+explained_variance-0.3688962459564209
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69314057
+value_loss: 1.6407645
+explained_variance-328.9546813964844
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 196
+policy_entropy: 0.69278246
+value_loss: 0.0015668671
+explained_variance-0.1497058868408203
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931381
+value_loss: 2.0784059
+explained_variance-148.78228759765625
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 196
+policy_entropy: 0.6928667
+value_loss: 0.0022026384
+explained_variance-0.30064380168914795
+-------------------------------
+lr: 0.631578947368421, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69314075
+value_loss: 2.2072425
+explained_variance-250.27578735351562
+-------------------------------
+lr: 0.631578947368421, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 197
+policy_entropy: 0.69130814
+value_loss: 0.0013660202
+explained_variance-0.0016824007034301758
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.15789473684210525
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931384
+value_loss: 1.940486
+explained_variance-214.38763427734375
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.15789473684210525
+nupdates: 100
+total_timesteps: 10000
+fps: 194
+policy_entropy: 0.6929094
+value_loss: 0.0020257279
+explained_variance-0.952698826789856
+-------------------------------
+lr: 0.0, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 79
+policy_entropy: 0.6931397
+value_loss: 1.9106321
+explained_variance-73.3219223022461
+-------------------------------
+lr: 0.0, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 281
+policy_entropy: 0.69314057
+value_loss: 1.6682365
+explained_variance-213.02224731445312
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 88
+policy_entropy: 0.6931393
+value_loss: 1.581575
+explained_variance-82.85931396484375
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 277
+policy_entropy: 0.69314057
+value_loss: 1.0773166
+explained_variance-193.69581604003906
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 80
+policy_entropy: 0.6931424
+value_loss: 1.8630484
+explained_variance-58.69287109375
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 285
+policy_entropy: 0.69313955
+value_loss: 0.23701538
+explained_variance-51.3767204284668
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 66
+policy_entropy: 0.6931395
+value_loss: 1.7283014
+explained_variance-111.04898071289062
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 279
+policy_entropy: 0.69314075
+value_loss: 0.2070438
+explained_variance-147.7362518310547
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 62
+policy_entropy: 0.69314104
+value_loss: 1.7806778
+explained_variance-140.96510314941406
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 276
+policy_entropy: 0.69314134
+value_loss: 0.10879758
+explained_variance-29.538196563720703
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 57
+policy_entropy: 0.6931404
+value_loss: 1.8799865
+explained_variance-115.74227905273438
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 276
+policy_entropy: 0.6931341
+value_loss: 0.038163207
+explained_variance-14.064742088317871
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 50
+policy_entropy: 0.6931417
+value_loss: 1.9252591
+explained_variance-80.9977035522461
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 274
+policy_entropy: 0.69312286
+value_loss: 0.01246005
+explained_variance-2.1588101387023926
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 45
+policy_entropy: 0.6931401
+value_loss: 1.8331527
+explained_variance-86.55204010009766
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 272
+policy_entropy: 0.6931416
+value_loss: 0.040684406
+explained_variance-12.382308959960938
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 43
+policy_entropy: 0.69313985
+value_loss: 1.7854118
+explained_variance-207.2362518310547
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 271
+policy_entropy: 0.69299376
+value_loss: 0.003044076
+explained_variance-0.20600807666778564
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 40
+policy_entropy: 0.6931408
+value_loss: 1.9085989
+explained_variance-150.78575134277344
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 270
+policy_entropy: 0.69309294
+value_loss: 0.0048917253
+explained_variance-1.6008195877075195
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 37
+policy_entropy: 0.6931393
+value_loss: 1.6471823
+explained_variance-54.347137451171875
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 269
+policy_entropy: 0.6894487
+value_loss: 0.002424703
+explained_variance0.19541537761688232
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 36
+policy_entropy: 0.69314176
+value_loss: 1.9269075
+explained_variance-128.0470428466797
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 266
+policy_entropy: 0.6930545
+value_loss: 0.0021004113
+explained_variance-0.6630452871322632
+-------------------------------
+lr: 0.631578947368421, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 34
+policy_entropy: 0.69314075
+value_loss: 1.7094597
+explained_variance-167.07310485839844
+-------------------------------
+lr: 0.631578947368421, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 266
+policy_entropy: 0.68838257
+value_loss: 0.002921492
+explained_variance0.03163856267929077
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 32
+policy_entropy: 0.69314
+value_loss: 1.8931551
+explained_variance-98.99604797363281
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 265
+policy_entropy: 0.69054765
+value_loss: 0.0018836117
+explained_variance0.0034783482551574707
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 30
+policy_entropy: 0.6931397
+value_loss: 1.7732047
+explained_variance-54.70159149169922
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 263
+policy_entropy: 0.6779573
+value_loss: 0.0030550743
+explained_variance-0.010936975479125977
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 29
+policy_entropy: 0.69313776
+value_loss: 1.8095374
+explained_variance-77.90084838867188
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 262
+policy_entropy: 0.6830818
+value_loss: 0.003498286
+explained_variance0.024573147296905518
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 27
+policy_entropy: 0.69313973
+value_loss: 1.7517562
+explained_variance-57.399131774902344
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 260
+policy_entropy: 0.687771
+value_loss: 0.0028155567
+explained_variance0.06639373302459717
+-------------------------------
+lr: 0.894736842105263, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 25
+policy_entropy: 0.6931414
+value_loss: 1.6383393
+explained_variance-116.59635162353516
+-------------------------------
+lr: 0.894736842105263, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 259
+policy_entropy: 0.6893147
+value_loss: 0.0024489262
+explained_variance-0.00011587142944335938
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 24
+policy_entropy: 0.6931395
+value_loss: 1.7676606
+explained_variance-64.8178939819336
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 258
+policy_entropy: 0.6869626
+value_loss: 0.0024071108
+explained_variance0.01926964521408081
+-------------------------------
+lr: 1.0, gamma: 0.2
+nupdates: 1
+total_timesteps: 100
+fps: 23
+policy_entropy: 0.6931408
+value_loss: 1.9217288
+explained_variance-71.81021881103516
+-------------------------------
+lr: 1.0, gamma: 0.2
+nupdates: 100
+total_timesteps: 10000
+fps: 256
+policy_entropy: 0.6871428
+value_loss: 0.002454715
+explained_variance-0.0009180307388305664
+-------------------------------
+lr: 0.0, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 22
+policy_entropy: 0.6931417
+value_loss: 2.1854565
+explained_variance-46.28597640991211
+-------------------------------
+lr: 0.0, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 254
+policy_entropy: 0.6931397
+value_loss: 2.1729348
+explained_variance-58.91212463378906
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 21
+policy_entropy: 0.6931373
+value_loss: 2.08212
+explained_variance-43.7027473449707
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 255
+policy_entropy: 0.6931398
+value_loss: 1.0408407
+explained_variance-92.06281280517578
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 21
+policy_entropy: 0.69313794
+value_loss: 1.9690793
+explained_variance-61.72571563720703
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 253
+policy_entropy: 0.6931401
+value_loss: 0.37513295
+explained_variance-21.112773895263672
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 20
+policy_entropy: 0.69314116
+value_loss: 1.9382074
+explained_variance-42.984806060791016
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 251
+policy_entropy: 0.69313645
+value_loss: 0.39089966
+explained_variance-70.62046813964844
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 19
+policy_entropy: 0.69314104
+value_loss: 1.9931846
+explained_variance-43.6610221862793
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 250
+policy_entropy: 0.69314146
+value_loss: 0.22687721
+explained_variance-39.309043884277344
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 19
+policy_entropy: 0.6931389
+value_loss: 1.9019818
+explained_variance-87.55337524414062
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 250
+policy_entropy: 0.6931421
+value_loss: 0.06452418
+explained_variance-9.307772636413574
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 18
+policy_entropy: 0.6931398
+value_loss: 1.8125345
+explained_variance-28.780351638793945
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 247
+policy_entropy: 0.69313645
+value_loss: 0.11050984
+explained_variance-22.863788604736328
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 17
+policy_entropy: 0.69313985
+value_loss: 2.4263482
+explained_variance-67.05613708496094
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 247
+policy_entropy: 0.69313276
+value_loss: 0.010426107
+explained_variance-0.8340609073638916
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 17
+policy_entropy: 0.6931375
+value_loss: 1.7687951
+explained_variance-38.86738204956055
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 246
+policy_entropy: 0.6930811
+value_loss: 0.005476245
+explained_variance0.02756291627883911
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 16
+policy_entropy: 0.69313943
+value_loss: 1.7928932
+explained_variance-47.56235885620117
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 243
+policy_entropy: 0.6910095
+value_loss: 0.005705423
+explained_variance0.14057505130767822
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 16
+policy_entropy: 0.6931389
+value_loss: 1.9273671
+explained_variance-42.07328414916992
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 242
+policy_entropy: 0.6866316
+value_loss: 0.0037971097
+explained_variance-0.08169198036193848
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 15
+policy_entropy: 0.6931393
+value_loss: 2.3362582
+explained_variance-61.14739227294922
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 241
+policy_entropy: 0.69225836
+value_loss: 0.0051545813
+explained_variance0.08522957563400269
+-------------------------------
+lr: 0.631578947368421, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 15
+policy_entropy: 0.6931398
+value_loss: 2.1044016
+explained_variance-91.45198059082031
+-------------------------------
+lr: 0.631578947368421, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 241
+policy_entropy: 0.6530104
+value_loss: 0.004873817
+explained_variance-0.02976691722869873
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 14
+policy_entropy: 0.69313914
+value_loss: 2.148846
+explained_variance-47.9099006652832
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 243
+policy_entropy: 0.6917859
+value_loss: 0.0044563757
+explained_variance0.03408777713775635
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69314057
+value_loss: 2.2180822
+explained_variance-58.68083190917969
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 228
+policy_entropy: 0.6852535
+value_loss: 0.0047886525
+explained_variance-0.043459534645080566
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.6931386
+value_loss: 2.2356749
+explained_variance-42.3357048034668
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 235
+policy_entropy: 0.68728685
+value_loss: 0.0035307407
+explained_variance-0.005288839340209961
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.69314057
+value_loss: 2.5286908
+explained_variance-76.42967987060547
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 236
+policy_entropy: 0.67463243
+value_loss: 0.006709984
+explained_variance-0.00031173229217529297
+-------------------------------
+lr: 0.894736842105263, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.6931397
+value_loss: 1.9785846
+explained_variance-51.769874572753906
+-------------------------------
+lr: 0.894736842105263, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 237
+policy_entropy: 0.6899008
+value_loss: 0.0033551722
+explained_variance0.04324084520339966
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 13
+policy_entropy: 0.6931398
+value_loss: 2.02085
+explained_variance-43.868629455566406
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 240
+policy_entropy: 0.69170743
+value_loss: 0.004598197
+explained_variance-0.0020977258682250977
+-------------------------------
+lr: 1.0, gamma: 0.25333333333333335
+nupdates: 1
+total_timesteps: 100
+fps: 12
+policy_entropy: 0.69314
+value_loss: 1.9019752
+explained_variance-56.77857971191406
+-------------------------------
+lr: 1.0, gamma: 0.25333333333333335
+nupdates: 100
+total_timesteps: 10000
+fps: 239
+policy_entropy: 0.6930487
+value_loss: 0.0046062977
+explained_variance-8.380413055419922e-05
+-------------------------------
+lr: 0.0, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 12
+policy_entropy: 0.6931397
+value_loss: 2.392393
+explained_variance-52.146080017089844
+-------------------------------
+lr: 0.0, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 233
+policy_entropy: 0.693137
+value_loss: 2.0764878
+explained_variance-15.183366775512695
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 12
+policy_entropy: 0.6931387
+value_loss: 1.9712594
+explained_variance-25.232187271118164
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 232
+policy_entropy: 0.69314104
+value_loss: 1.8063931
+explained_variance-29.621967315673828
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.6931393
+value_loss: 2.2409005
+explained_variance-38.6873779296875
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 235
+policy_entropy: 0.69313943
+value_loss: 0.45592812
+explained_variance-34.59967041015625
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.6931397
+value_loss: 2.4420452
+explained_variance-31.93498992919922
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 231
+policy_entropy: 0.69313765
+value_loss: 0.17324483
+explained_variance-12.584502220153809
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.69314057
+value_loss: 2.2009091
+explained_variance-28.4044189453125
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 233
+policy_entropy: 0.69313055
+value_loss: 0.08153111
+explained_variance-8.522372245788574
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 11
+policy_entropy: 0.6931406
+value_loss: 2.2327251
+explained_variance-18.45404052734375
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 229
+policy_entropy: 0.69313896
+value_loss: 0.08134995
+explained_variance-18.534400939941406
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69313985
+value_loss: 2.1504247
+explained_variance-22.058774948120117
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 210
+policy_entropy: 0.6931288
+value_loss: 0.012691075
+explained_variance-1.0757107734680176
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.693139
+value_loss: 2.1700447
+explained_variance-38.024505615234375
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 215
+policy_entropy: 0.69308424
+value_loss: 0.020155642
+explained_variance-1.0820791721343994
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931398
+value_loss: 2.2964916
+explained_variance-32.93367004394531
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 199
+policy_entropy: 0.6930597
+value_loss: 0.010156437
+explained_variance-0.03743302822113037
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69313806
+value_loss: 2.3035886
+explained_variance-25.827199935913086
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 215
+policy_entropy: 0.69307846
+value_loss: 0.009796411
+explained_variance0.00032895803451538086
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 9
+policy_entropy: 0.69314104
+value_loss: 2.3911216
+explained_variance-28.458776473999023
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 218
+policy_entropy: 0.69265664
+value_loss: 0.014498995
+explained_variance0.020884037017822266
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.6931406
+value_loss: 2.330909
+explained_variance-28.761472702026367
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 212
+policy_entropy: 0.68817145
+value_loss: 0.01016083
+explained_variance-0.0355076789855957
+-------------------------------
+lr: 0.631578947368421, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69314116
+value_loss: 2.167719
+explained_variance-31.77515411376953
+-------------------------------
+lr: 0.631578947368421, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 209
+policy_entropy: 0.6930904
+value_loss: 0.009207059
+explained_variance0.057898104190826416
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69313866
+value_loss: 2.0615573
+explained_variance-44.58875274658203
+-------------------------------
+lr: 0.6842105263157894, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 211
+policy_entropy: 0.67064863
+value_loss: 0.0134860305
+explained_variance0.09615540504455566
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69314086
+value_loss: 2.1051886
+explained_variance-37.928768157958984
+-------------------------------
+lr: 0.7368421052631579, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 211
+policy_entropy: 0.6911354
+value_loss: 0.007991278
+explained_variance1.4901161193847656e-05
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931404
+value_loss: 2.2916198
+explained_variance-33.94282913208008
+-------------------------------
+lr: 0.7894736842105263, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 211
+policy_entropy: 0.66834277
+value_loss: 0.013252219
+explained_variance-0.00023853778839111328
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69314027
+value_loss: 2.3127618
+explained_variance-29.667219161987305
+-------------------------------
+lr: 0.8421052631578947, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 208
+policy_entropy: 0.69175386
+value_loss: 0.00983851
+explained_variance-0.005802512168884277
+-------------------------------
+lr: 0.894736842105263, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 5
+policy_entropy: 0.69314134
+value_loss: 2.1297107
+explained_variance-20.32890510559082
+-------------------------------
+lr: 0.894736842105263, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 183
+policy_entropy: 0.69273394
+value_loss: 0.0045701973
+explained_variance-0.09140372276306152
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931392
+value_loss: 2.214014
+explained_variance-32.30227279663086
+-------------------------------
+lr: 0.9473684210526315, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 209
+policy_entropy: 0.6927192
+value_loss: 0.0115953935
+explained_variance-9.298324584960938e-06
+-------------------------------
+lr: 1.0, gamma: 0.3066666666666667
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931375
+value_loss: 2.0604877
+explained_variance-11.540716171264648
+-------------------------------
+lr: 1.0, gamma: 0.3066666666666667
+nupdates: 100
+total_timesteps: 10000
+fps: 205
+policy_entropy: 0.68756807
+value_loss: 0.011354724
+explained_variance0.006448507308959961
+-------------------------------
+lr: 0.0, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69314
+value_loss: 2.5971708
+explained_variance-13.12453556060791
+-------------------------------
+lr: 0.0, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 211
+policy_entropy: 0.6931381
+value_loss: 2.7795017
+explained_variance-22.012531280517578
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69313985
+value_loss: 2.3992324
+explained_variance-14.307709693908691
+-------------------------------
+lr: 0.05263157894736842, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 207
+policy_entropy: 0.6931387
+value_loss: 1.7301465
+explained_variance-27.581634521484375
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69313896
+value_loss: 2.7237437
+explained_variance-16.707365036010742
+-------------------------------
+lr: 0.10526315789473684, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 212
+policy_entropy: 0.69313455
+value_loss: 0.3340673
+explained_variance-11.553595542907715
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.69313794
+value_loss: 2.5821526
+explained_variance-18.898876190185547
+-------------------------------
+lr: 0.15789473684210525, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 207
+policy_entropy: 0.69314134
+value_loss: 0.14364222
+explained_variance-8.683188438415527
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.69314057
+value_loss: 2.8072088
+explained_variance-20.52374267578125
+-------------------------------
+lr: 0.21052631578947367, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 209
+policy_entropy: 0.6931419
+value_loss: 0.10293314
+explained_variance-5.26967716217041
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 8
+policy_entropy: 0.693139
+value_loss: 2.6754484
+explained_variance-15.785430908203125
+-------------------------------
+lr: 0.2631578947368421, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 209
+policy_entropy: 0.6931345
+value_loss: 0.04412157
+explained_variance-1.6354718208312988
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 7
+policy_entropy: 0.6931393
+value_loss: 2.4445784
+explained_variance-13.097073554992676
+-------------------------------
+lr: 0.3157894736842105, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 209
+policy_entropy: 0.69313675
+value_loss: 0.049739342
+explained_variance-2.0514309406280518
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931404
+value_loss: 2.9267309
+explained_variance-19.25709342956543
+-------------------------------
+lr: 0.3684210526315789, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 197
+policy_entropy: 0.6931296
+value_loss: 0.017029135
+explained_variance0.10377544164657593
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69313943
+value_loss: 2.679618
+explained_variance-14.810616493225098
+-------------------------------
+lr: 0.42105263157894735, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 201
+policy_entropy: 0.69264007
+value_loss: 0.012602999
+explained_variance-0.7452729940414429
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.6931406
+value_loss: 2.5086536
+explained_variance-16.485729217529297
+-------------------------------
+lr: 0.47368421052631576, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 201
+policy_entropy: 0.69235975
+value_loss: 0.012538902
+explained_variance0.22803139686584473
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 6
+policy_entropy: 0.69314027
+value_loss: 2.4500253
+explained_variance-17.303817749023438
+-------------------------------
+lr: 0.5263157894736842, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 202
+policy_entropy: 0.6924759
+value_loss: 0.013440125
+explained_variance-0.0012004375457763672
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.36
+nupdates: 1
+total_timesteps: 100
+fps: 5
+policy_entropy: 0.69314003
+value_loss: 2.2577348
+explained_variance-15.598175048828125
+-------------------------------
+lr: 0.5789473684210527, gamma: 0.36
+nupdates: 100
+total_timesteps: 10000
+fps: 188
+policy_entropy: 0.69153666
+value_loss: 0.014374031
+explained_variance-0.08232474327087402
+-------------------------------
