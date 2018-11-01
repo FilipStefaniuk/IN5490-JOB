@@ -8,7 +8,9 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --output=/dev/null
 
+SEED=1234
+
 module purge
 module add /usit/abel/u1/filipste/IN5490/baselines.module
 
-python ./run.py "$1" --config="$2" --env="LunarLander-v2" --alg="PPO" --total_timesteps=2000000 --seed=1234
+python ./run.py "$1" --config="$2" --env="LunarLander-v2" --alg="PPO" --total_timesteps=2000000 --seed="$SEED"
