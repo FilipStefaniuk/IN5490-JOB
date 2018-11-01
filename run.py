@@ -85,7 +85,7 @@ def main():
 
     args = get_args()
     config = json.load(args.config) if args.config else {}
-    config = dict(get_default_hyp(args.alg), *config)
+    config = dict(get_default_hyp(args.alg), **config)
 
     if not os.path.exists(args.outdir):
         os.makedirs(args.outdir)

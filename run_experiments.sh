@@ -1,9 +1,8 @@
 #!/bin/bash
 
-for file in "$2"*; do
-    file=${file##*/}
-    file=${file%.*}
+for file in "$3"*; do
+    basename=${file##*/}
+    basename=${basename%.*}
     
-    sbatch $1 "$2" "${3}${file}"
-    # $1 "$2" "${3}${file}"
+    sbatch $1 "${2}${basename}" "${file}"
 done
