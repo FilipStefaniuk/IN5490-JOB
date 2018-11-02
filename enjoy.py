@@ -8,7 +8,7 @@ from baselines.trpo_mpi import trpo_mpi
 from baselines.ppo2 import ppo2
 from baselines import logger
 
-from run_trpo import ALGS, ENVS, get_env
+from run import ALGS, ENVS, get_env
 
 
 def get_args():
