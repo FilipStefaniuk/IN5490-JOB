@@ -8,7 +8,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --output=/dev/null
 
-SEED=1234
+SEED=1337
 
 module purge
 module add /usit/abel/u1/filipste/IN5490/baselines.module
