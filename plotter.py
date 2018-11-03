@@ -67,20 +67,31 @@ def plot_auc_2d(experiments, xscale='linear', **kwargs):
 
     data = pd.DataFrame(data, columns=[param, 'ALC'])
 
-    fig, ax = plt.subplots()
+    _, ax = plt.subplots()
     ax.set(xscale=xscale)
     sns.relplot(x=param, y='ALC', data=data, ax=ax, kind='line')
     plt.close(2)
 
-    return fig
+
+def plot_heatmap(experiments, **kwargs):
+
+    param1, param2 = list(experiments[0].params.keys())
+    data = [(experiment.params[param1], experiment.params[param2], auc)
+            for experiment in experiments
+            for auc in experiment.get_auc(**kwargs)]
+
+    data = pd.DataFrame(data, columns=[param1, param2, 'ALC'])
+    data = data.pivot(param1, param2, "ALC")
+    ax = sns.heatmap(data)
 
 
 def main():
     args = get_args()
     experiments = get_experiments(args.params_dir, *args.results_dir)
 
+    plot_heatmap(experiments, min_val=-200, max_val=200)
     # plot_auc_2d(experiments, min_val=-200, max_val=200)
-    plot_auc_2d(experiments, x='total_timesteps', y='eprewmean', min_val=-200, max_val=200)
+    # plot_auc_2d(experiments, x='total_timesteps', y='eprewmean', min_val=-200, max_val=200)
     plt.show()
 
 if __name__ == '__main__':
