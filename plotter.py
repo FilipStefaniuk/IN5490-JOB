@@ -58,6 +58,19 @@ def get_experiments(params_dir, *results_dir, csv_file='progress.csv'):
     return experiments
 
 
+def plot_learning_curve(experiments, **kwargs):
+    param = list(experiments[0].params.keys())[0]
+
+    data = []
+    for experiment in experiments:
+        tmp = pd.concat([result[['eprewmean', 'total_timesteps']] for result in experiment.results])
+        tmp[param] = experiment.params[param]
+        data.append(tmp)
+
+    data = pd.concat(data)
+    sns.relplot(x='total_timesteps', y='eprewmean', data=data, kind='line', hue=param)
+
+
 def plot_auc_2d(experiments, xscale='linear', **kwargs):
 
     param = list(experiments[0].params.keys())[0]
@@ -89,10 +102,11 @@ def main():
     args = get_args()
     experiments = get_experiments(args.params_dir, *args.results_dir)
 
-    plot_heatmap(experiments, min_val=-200, max_val=200)
+    # plot_learning_curve(experiments[:10], min_val=-200, max_val=200)
+    # plot_heatmap(experiments, min_val=-200, max_val=200)
     # plot_auc_2d(experiments, min_val=-200, max_val=200)
     # plot_auc_2d(experiments, x='total_timesteps', y='eprewmean', min_val=-200, max_val=200)
-    plt.show()
+    # plt.show()
 
 if __name__ == '__main__':
     main()
