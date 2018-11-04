@@ -58,17 +58,17 @@ def get_experiments(params_dir, *results_dir, csv_file='progress.csv'):
     return experiments
 
 
-def plot_learning_curve(experiments, **kwargs):
+def plot_learning_curve(experiments, y='EpRewMean', x='TimestepsSoFar', **kwargs):
     param = list(experiments[0].params.keys())[0]
 
     data = []
     for experiment in experiments:
-        tmp = pd.concat([result[['eprewmean', 'total_timesteps']] for result in experiment.results])
+        tmp = pd.concat([result[[x, y]] for result in experiment.results])
         tmp[param] = experiment.params[param]
         data.append(tmp)
 
     data = pd.concat(data)
-    sns.relplot(x='total_timesteps', y='eprewmean', data=data, kind='line', hue=param)
+    sns.relplot(x=x, y=y, data=data, kind='line', hue=param)
 
 
 def plot_auc_2d(experiments, xscale='linear', **kwargs):
