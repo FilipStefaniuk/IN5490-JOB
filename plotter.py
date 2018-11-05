@@ -58,20 +58,19 @@ def get_experiments(params_dir, *results_dir, csv_file='progress.csv'):
     return experiments
 
 
-def plot_learning_curve(experiments, y='EpRewMean', x='TimestepsSoFar', **kwargs):
-    param = list(experiments[0].params.keys())[0]
+def plot_learning_curve(experiment, y='EpRewMean', x='TimestepsSoFar', **kwargs):
 
     data = []
-    for experiment in experiments:
-        tmp = pd.concat([result[[x, y]] for result in experiment.results])
-        tmp[param] = experiment.params[param]
+    for i, result in enumerate(experiment.results):
+        tmp = result[[x, y]]
+        tmp['run'] = i
         data.append(tmp)
 
     data = pd.concat(data)
-    sns.relplot(x=x, y=y, data=data, kind='line', hue=param)
+    sns.relplot(x=x, y=y, data=data, kind='line', hue='run', **kwargs)
 
 
-def plot_auc_2d(experiments, xscale='linear', **kwargs):
+def plot_auc_2d(experiments, xscale='linear', ax=None, **kwargs):
 
     param = list(experiments[0].params.keys())[0]
     data = [(*experiment.params.values(), auc)
@@ -80,7 +79,8 @@ def plot_auc_2d(experiments, xscale='linear', **kwargs):
 
     data = pd.DataFrame(data, columns=[param, 'ALC'])
 
-    _, ax = plt.subplots()
+    if not ax:
+        _, ax = plt.subplots()
     ax.set(xscale=xscale)
     sns.relplot(x=param, y='ALC', data=data, ax=ax, kind='line')
     plt.close(2)
