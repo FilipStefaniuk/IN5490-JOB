@@ -9,6 +9,9 @@ import seaborn as sns
 
 from sklearn.metrics import auc
 
+from mpl_toolkits.mplot3d import Axes3D
+from scipy.interpolate import griddata
+
 sns.set(style='darkgrid')
 
 
@@ -97,16 +100,44 @@ def plot_heatmap(experiments, **kwargs):
     data = data.pivot(param1, param2, "ALC")
     ax = sns.heatmap(data)
 
+def plot_3d(experiments, interpolate, **kwargs):
+    param1, param2 = list(experiments[0].params.keys())
+    data = np.array([np.array((experiment.params[param1], experiment.params[param2], auc))
+            for experiment in experiments
+            for auc in experiment.get_auc(**kwargs)])
+
+    cMap = plt.cm.Spectral
+    n = 40
+    nj = 40j
+
+    fig = plt.figure()
+    ax = fig.gca(projection='3d')
+    if interpolate:
+        gridX, gridY = np.mgrid[min(data[:,0]):max(data[:,0]):nj, min(data[:,1]):max(data[:,1]):nj]
+        dataInPol = griddata(data[:,0:2], data[:,2], (gridX, gridY), method='linear')
+        gridX = gridX.reshape(n*n)
+        gridY = gridY.reshape(n*n)
+        dataInPol = dataInPol.reshape(n*n)
+        ax.plot_trisurf(gridX, gridY, dataInPol, cmap=cMap, linewidth=0)
+    else:
+        ax.plot_trisurf(data[:,0], data[:,1], data[:,2], cmap=cMap, linewidth=0)
+    plt.xlabel(param1)
+    plt.ylabel(param2)
+
+    return fig
 
 def main():
     args = get_args()
     experiments = get_experiments(args.params_dir, *args.results_dir)
 
+
     # plot_learning_curve(experiments[:10], min_val=-200, max_val=200)
     # plot_heatmap(experiments, min_val=-200, max_val=200)
     # plot_auc_2d(experiments, min_val=-200, max_val=200)
     # plot_auc_2d(experiments, x='total_timesteps', y='eprewmean', min_val=-200, max_val=200)
-    # plt.show()
+    plot_3d(experiments, False, min_val=-200, max_val=200)
+    plot_3d(experiments, True, min_val=-200, max_val=200)
+    plt.show()
 
 if __name__ == '__main__':
     main()
