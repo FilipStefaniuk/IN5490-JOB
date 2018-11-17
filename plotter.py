@@ -124,7 +124,7 @@ def plot_3d(experiments, interpolate, **kwargs):
     plt.xlabel(param1)
     plt.ylabel(param2)
 
-    return fig
+    #return fig
 
 def main():
     args = get_args()
